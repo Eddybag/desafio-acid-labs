@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$USER_HOME$/Documents/Desarrollos/jpa/gs-accessing-data-jpa/complete" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Documents/Desarrollos/jpa/gs-accessing-data-jpa/complete" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$USER_HOME$/Documents/Desarrollos/jpa/gs-consuming-rest/complete" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Documents/Desarrollos/jpa/gs-consuming-rest/complete" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$USER_HOME$/Downloads/GradleWarPlugin" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Downloads/GradleWarPlugin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$USER_HOME$/Downloads/demo" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Downloads/demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../Spring4MVCFileUpload" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../Spring4MVCFileUpload" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../demo" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../gs-accessing-data-rest/complete" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../gs-accessing-data-rest/complete" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../java-groovy-gradle-spring-h2-contact-manager" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../java-groovy-gradle-spring-h2-contact-manager" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../restful-client" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../restful-client" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../spring-boot-mybatis-java" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../spring-boot-mybatis-java" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../spring-boot/devms.blog" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../spring-boot/devms.blog" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../spring-data-jpa-example" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../spring-data-jpa-example" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../streaming-file-server" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/2.13/bin/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../streaming-file-server" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

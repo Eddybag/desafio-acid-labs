@@ -1,0 +1,62 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : complete : complete.war">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/complete</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$USER_HOME$/Documents/Desarrollos/jpa/gs-accessing-data-jpa/complete" />
+    </properties>
+    <root id="archive" name="complete.war">
+      <element id="javaee-facet-resources" facet="complete/web/Web Gradle : complete.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="complete" />
+          <element id="dir-copy" path="$USER_HOME$/Documents/Desarrollos/jpa/gs-accessing-data-jpa/complete/build/resources/main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter:1.4.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot:1.4.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-autoconfigure:1.4.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-logging:1.4.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.3.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.yaml:snakeyaml:1.17" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.3.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:4.3.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-context:4.3.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: ch.qos.logback:logback-classic:1.1.7" />
+          <element id="library" level="project" name="Gradle: org.slf4j:jcl-over-slf4j:1.7.21" />
+          <element id="library" level="project" name="Gradle: org.slf4j:jul-to-slf4j:1.7.21" />
+          <element id="library" level="project" name="Gradle: org.slf4j:log4j-over-slf4j:1.7.21" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:4.3.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: ch.qos.logback:logback-core:1.1.7" />
+          <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.21" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-data-jpa:1.4.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: com.h2database:h2:1.4.193" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-aop:1.4.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-jdbc:1.4.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.hibernate:hibernate-core:5.0.11.Final" />
+          <element id="library" level="project" name="Gradle: org.hibernate:hibernate-entitymanager:5.0.11.Final" />
+          <element id="library" level="project" name="Gradle: javax.transaction:javax.transaction-api:1.2" />
+          <element id="library" level="project" name="Gradle: org.springframework.data:spring-data-jpa:1.10.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-aspects:4.3.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.aspectj:aspectjweaver:1.8.9" />
+          <element id="library" level="project" name="Gradle: org.apache.tomcat:tomcat-jdbc:8.5.6" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-jdbc:4.3.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.jboss.logging:jboss-logging:3.3.0.Final" />
+          <element id="library" level="project" name="Gradle: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final" />
+          <element id="library" level="project" name="Gradle: org.javassist:javassist:3.20.0-GA" />
+          <element id="library" level="project" name="Gradle: antlr:antlr:2.7.7" />
+          <element id="library" level="project" name="Gradle: org.jboss:jandex:2.0.0.Final" />
+          <element id="library" level="project" name="Gradle: dom4j:dom4j:1.6.1" />
+          <element id="library" level="project" name="Gradle: org.hibernate.common:hibernate-commons-annotations:5.0.1.Final" />
+          <element id="library" level="project" name="Gradle: org.springframework.data:spring-data-commons:1.12.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-orm:4.3.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-tx:4.3.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.apache.tomcat:tomcat-juli:8.5.6" />
+          <element id="library" level="project" name="Gradle: xml-apis:xml-apis:1.4.01" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/classes/artifacts/complete/exploded/complete.war/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

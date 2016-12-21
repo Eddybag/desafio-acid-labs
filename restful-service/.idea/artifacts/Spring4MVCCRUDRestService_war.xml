@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Spring4MVCCRUDRestService:war">
+    <output-path>$PROJECT_DIR$/../Spring4MVCCRUDRestService1/target</output-path>
+    <root id="archive" name="Spring4MVCCRUDRestService.war">
+      <element id="artifact" artifact-name="Spring4MVCCRUDRestService:war exploded" />
+    </root>
+  </artifact>
+</component>

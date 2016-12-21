@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/Documents/Desarrollos/jpa/gs-accessing-data-jpa/complete" />
+    <file type="web" url="file://$USER_HOME$/Documents/Desarrollos/jpa/gs-consuming-rest/complete" />
+    <file type="web" url="file://$USER_HOME$/Downloads/demo" />
+    <file type="web" url="file://$USER_HOME$/Downloads/GradleWarPlugin" />
+    <file type="web" url="file://$USER_HOME$/Downloads/Spring4MVCCRUDRestService1" />
+    <file type="web" url="file://$PROJECT_DIR$/../demo" />
+    <file type="web" url="file://$PROJECT_DIR$/../gs-accessing-data-rest/complete" />
+    <file type="web" url="file://$PROJECT_DIR$/../restful-client" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-boot-mybatis-java" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-boot/devms.blog" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-data-jpa-example" />
+    <file type="web" url="file://$PROJECT_DIR$/../Spring4MVCCRUDRestService1" />
+    <file type="web" url="file://$PROJECT_DIR$/../Spring4MVCFileUpload" />
+    <file type="web" url="file://$PROJECT_DIR$/../streaming-file-server" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../H2SpringHibernateJava/pom.xml" />
+        <option value="$PROJECT_DIR$/../double-entry-booking-spring-jta/DoubleEntryBookingSpringJTA/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring4MVCCRUDRestService1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+</project>

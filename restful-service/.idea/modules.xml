@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Spring4MVCCRUDRestService1/Spring4MVCCRUDRestService.iml" filepath="$PROJECT_DIR$/../Spring4MVCCRUDRestService1/Spring4MVCCRUDRestService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring4MVCFileUpload/Spring4MVCFileUpload.iml" filepath="$PROJECT_DIR$/../Spring4MVCFileUpload/Spring4MVCFileUpload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gs-accessing-data-rest/complete/complete.iml" filepath="$PROJECT_DIR$/../gs-accessing-data-rest/complete/complete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-boot/devms.blog/devms.blog.iml" filepath="$PROJECT_DIR$/../spring-boot/devms.blog/devms.blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java-groovy-gradle-spring-h2-contact-manager/java-groovy-gradle-spring-h2-contact-manager.iml" filepath="$PROJECT_DIR$/../java-groovy-gradle-spring-h2-contact-manager/java-groovy-gradle-spring-h2-contact-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../restful-client/restful-client.iml" filepath="$PROJECT_DIR$/../restful-client/restful-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful-service.iml" filepath="$PROJECT_DIR$/restful-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java-groovy-gradle-spring-h2-contact-manager/spring-mvc-contact-manager.iml" filepath="$PROJECT_DIR$/../java-groovy-gradle-spring-h2-contact-manager/spring-mvc-contact-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../streaming-file-server/streaming-file-server.iml" filepath="$PROJECT_DIR$/../streaming-file-server/streaming-file-server.iml" />
+    </modules>
+  </component>
+</project>
